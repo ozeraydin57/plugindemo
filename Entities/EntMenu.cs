@@ -15,5 +15,6 @@ namespace Entities
         public string ActionName { get; set; }
         public string ControllerName { get; set; }
         public List<string> Menu { get; set; }
+
     }
 }
